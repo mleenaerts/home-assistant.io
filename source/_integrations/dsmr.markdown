@@ -13,7 +13,7 @@ ha_codeowners:
 
 A sensor platform for Dutch Smart Meters which comply to DSMR (Dutch Smart Meter Requirements), also known as 'Slimme meter' or 'P1 poort'.
 
-- Currently support DSMR V2.2, V3, V4, V5 and V5 Belgian through the [dsmr_parser](https://github.com/ndokter/dsmr_parser) module by Nigel Dokter.
+- Currently support DSMR V2.2, V3, V4, V5 and V5B Belgian through the [dsmr_parser](https://github.com/ndokter/dsmr_parser) module by Nigel Dokter.
 - For official information about DSMR refer to: [DSMR Document](https://www.netbeheernederland.nl/dossiers/slimme-meter-15)
 - For official information about the P1 port refer to: <https://www.netbeheernederland.nl/_upload/Files/Slimme_meter_15_a727fce1f1.pdf>
 - For unofficial hardware connection examples refer to: [Domoticx](http://domoticx.com/p1-poort-slimme-meter-hardware/)
